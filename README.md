@@ -1,7 +1,5 @@
 # 💫 About Me:
-I'm currently working on full stack development, focusing on building robust and scalable web applications that integrate both frontend and backend technologies seamlessly.<br>I'm currently learning Docker to containerize my applications, streamline deployment processes, and ensure consistency across different development and production environments.
-
-
+I'm currently working on full stack development, focusing on building robust and scalable web applications that integrate both frontend and backend technologies seamlessly.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yatin__rana) [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yatin-rana](https://www.linkedin.com/in/yatin-rana-8a8a8324a/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Yatin_Rana) 
 
